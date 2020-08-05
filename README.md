@@ -31,9 +31,52 @@ Tasked with creating a Books REST service with Kinvey DB storage and custom auth
     </a>
 </p>
 
+<p align="center">
+    <a href="https://rdrachenberg.github.io/booksREST/">
+        <img src="./img/books.png">
+    </a>
+</p>
+
 📦booksREST
+ ┣ 📂img
+ ┃ ┣ 📜books.png
+ ┃ ┣ 📜booksCreate.gif
+ ┃ ┣ 📜booksDelete.gif
+ ┃ ┣ 📜booksUpdate.gif
+ ┃ ┗ 📜loadbooks.gif
  ┣ 📜README.md
  ┣ 📜app.js
  ┣ 📜index.html
  ┗ 📜styles.css
- 
+
+## Create / Add Book
+
+ <p align="center">
+    <a href="https://rdrachenberg.github.io/booksREST/">
+        <img src="./img/booksCreate.gif">
+    </a>
+</p>
+
+## Read / Load Books
+
+ <p align="center">
+    <a href="https://rdrachenberg.github.io/booksREST/">
+        <img src="./img/loadbooks.gif">
+    </a>
+</p>
+
+## Update / Update Book
+
+ <p align="center">
+    <a href="https://rdrachenberg.github.io/booksREST/">
+        <img src="./img/booksUpdate.gif">
+    </a>
+</p>
+
+## Delete / Delete Book
+
+ <p align="center">
+    <a href="https://rdrachenberg.github.io/booksREST/">
+        <img src="./img/booksDelete.gif">
+    </a>
+</p>
