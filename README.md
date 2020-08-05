@@ -3,16 +3,13 @@ Tasked with creating a Books REST service with Kinvey DB storage and custom auth
 
 <p align='center'>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/app.js'>
-        <img src='https://img.shields.io/badge/JavaScript-88.6%25-brightgreen?style=plastic&logo=javascript'>
+        <img src='https://img.shields.io/badge/JavaScript-76.4%25-brightgreen?style=plastic&logo=javascript'>
     </a>
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'> 
-        <img src='https://img.shields.io/badge/HTML-6.2%25-orange?style=plastic&logo=HTML5'>
+        <img src='https://img.shields.io/badge/HTML-9.8%25-orange?style=plastic&logo=HTML5'>
     </a> 
     <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/index.html'>
-        <img src='https://img.shields.io/badge/CSS-5.2%25-purple?style=plascit&logo=CSS3'>
-    </a>
-    <a href='https://github.com/rdrachenberg/fisher-recorder/blob/master/LICENSE'>
-        <img src='https://img.shields.io/github/license/rdrachenberg/fisher-recorder?color=blue&logo=Stackbit'>
+        <img src='https://img.shields.io/badge/CSS-13.8%25-purple?style=plascit&logo=CSS3&logoColor=blue'>
     </a>
     <a href='https://fisher-game.firebaseio.com/catches.json'>
         <img src='https://img.shields.io/badge/Database-Kinvey-red?style=plastic&logo=Firebase'>
