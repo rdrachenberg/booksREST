@@ -83,11 +83,8 @@ function get() { // function to do a get request from the kinvey database
 
             });
 
-            
-
             let editButtons = document.getElementsByClassName('edit').length;
-            
-            
+
             for (let i = 0; i < editButtons; i++) {
                 document.getElementsByClassName('edit')[i].addEventListener('click', function(){
                     console.log(this.parentElement.parentElement.getAttribute('data-id'));
@@ -112,6 +109,7 @@ function get() { // function to do a get request from the kinvey database
                         body: JSON.stringify(postObj),
 
                     };
+
                     fetch(`${url}/${id}`, putObj).then(function(res){
                         res.json().then(function(response){
                             console.log(response);
@@ -183,9 +181,7 @@ submitButton.addEventListener('click', function () {
         headers: myPostHeaders,
         body: JSON.stringify(postObj),
     };
-        
     // console.log('submit clicked');
-
     fetch(postURL, myPostHeader).then(function (res) {
         
         if (res.ok) {
@@ -194,11 +190,8 @@ submitButton.addEventListener('click', function () {
             });
         }
     });
-
     document.getElementById('title').value = '';
     document.getElementById('author').value = '';
     document.getElementById('isbn').value = '';
-
     get(); // run get function 
-
 });
