@@ -27,7 +27,11 @@ Tasked with creating a Books REST service with Kinvey DB storage and custom auth
         <img src=https://forthebadge.com/images/badges/check-it-out.svg>
     </a>
 </p>
-
+<p align='center'>
+    <a href='https://rdrachenberg.github.io/booksREST/'>
+        <img src='https://media.giphy.com/media/dtjfmbSUDWtYmDio12/giphy.gif'>
+    </a>
+</p>
 <p align="center">
     <a href="https://rdrachenberg.github.io/booksREST/">
         <img src="./img/books.png">
