@@ -37,17 +37,17 @@ Tasked with creating a Books REST service with Kinvey DB storage and custom auth
     </a>
 </p>
 
-📦booksREST
- ┣ 📂img
- ┃ ┣ 📜books.png
- ┃ ┣ 📜booksCreate.gif
- ┃ ┣ 📜booksDelete.gif
- ┃ ┣ 📜booksUpdate.gif
- ┃ ┗ 📜loadbooks.gif
- ┣ 📜README.md
- ┣ 📜app.js
- ┣ 📜index.html
- ┗ 📜styles.css
+    📦booksREST
+    ┣ 📂img
+    ┃ ┣ 📜books.png
+    ┃ ┣ 📜booksCreate.gif
+    ┃ ┣ 📜booksDelete.gif
+    ┃ ┣ 📜booksUpdate.gif
+    ┃ ┗ 📜loadbooks.gif
+    ┣ 📜README.md
+    ┣ 📜app.js
+    ┣ 📜index.html
+    ┗ 📜styles.css
 
 ## Create / Add Book
 
